@@ -14,8 +14,8 @@
 - 💻 I'm a Full Stack Developer
 - 🎨 I'm a self-taught Discord Bot Developer
 - 📱 I make website using reactjs and tailwind css etc
-- 🌐 You can see some of my projects on [my portfolio](https://Yashhh999/)
-
+- 🤖 I am currently learning Machine Learning. 
+- 🌐 You can see some of my projects on [my portfolio](https://Yashhh999/yashgupta.is-a.dev)
 
 ## 🔥 My contribution streak
 
