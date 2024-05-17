@@ -1,7 +1,7 @@
 
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h3 align="center">Hey there, I'm <a href="https://yashgupta.is-a.dev">Yash</a></h3>
+<h3 align="center">Hey there, I'm <a href="https://yashit.me">Yash</a></h3>
 
 <p align="center">
 <a href="https://github.com/Yashhh999"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Yashhh999?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
@@ -15,7 +15,7 @@
 - 🎨 I'm a self-taught Discord Bot Developer
 - 📱 I make website using reactjs and tailwind css etc
 - 🤖 I am currently learning Machine Learning. 
-- 🌐 You can see some of my projects on [my portfolio](https://Yashhh999/yashgupta.is-a.dev)
+- 🌐 You can see some of my projects on [my portfolio](https://yashit.me)
 
 ## 🔥 My contribution streak
 
@@ -33,7 +33,7 @@
 <p align="left">
 
   <a href="https://www.twitter.com/Yashhh999"><img alt="Twitter" title="Twitter" src="https://skillicons.dev/icons?i=twitter"/></a>
-<a href="https://yashgupta.is-a.dev/"><img src="https://skillicons.dev/icons?i=netlify"></a>
+<a href="https://yashit.me/"><img src="https://skillicons.dev/icons?i=netlify"></a>
 </p>
 
 
