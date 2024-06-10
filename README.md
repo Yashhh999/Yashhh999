@@ -14,7 +14,7 @@
 - 💻 I'm a Full Stack Developer
 - 🎨 I'm a self-taught Discord Bot Developer
 - 📱 I make website using reactjs and tailwind css etc
-- 🤖 I am currently learning Machine Learning. 
+- 🤖 I am currently learning Machine Learning and game dev. 
 - 🌐 You can see some of my projects on [my portfolio](https://yashit.me)
 
 ## 🔥 My contribution streak
